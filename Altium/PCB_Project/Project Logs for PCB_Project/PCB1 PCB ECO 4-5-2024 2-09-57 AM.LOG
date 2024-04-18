@@ -1,0 +1,25 @@
+Change Component Footprint: Designator=Q1 Old Footprint=ONSC-TO-92-3-29-11 New Footprint=FAIR-TO-92
+Change Component Comment : Designator=Q1 Old Comment=2N3904 New Comment=2N3904BU
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=40BF418E-5EE1-40DB-90A5-D750F3317D8E New ItemGUID=D82A9182-C512-49AD-90DF-5A1BBDA60F70 Old RevisionGUID=931CDA6A-6941-4141-B0A8-C43031C4EFB2 New RevisionGUID=6EAAE616-8D62-4941-9E44-EB706EA21933
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "ONSC-TO-92-3-29-11"; UniqueID = "\GHQGRXHH" ("\GHQGRXHH")
+Change component parameters (AddParameter): Name = "Category"; Value = "GPBJT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/4722/2n3904-82270-4722369.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 1.1.0, 10/2014"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "FairchildSemiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "https://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Collector Base Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Collector Emitter Saturation Voltage"; Value = "0.2@1mA@10mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Collector Emitter Voltage"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum DC Collector Current"; Value = "0.2A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Frequency"; Value = "300(Min)MHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Power Dissipation"; Value = "625mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum DC Current Gain"; Value = "40@0.1mA@1V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting"; Value = "ThroughHole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-55to150degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "3TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Transistor Outline Package, Body Dia 4.79 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "TO-92"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Rad Hard"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Type"; Value = "NPN"; VariantName = "[No Variations]"

@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetPCAP1_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetD1_1 Pin=Q1-3
+Change Component Footprint: Designator=Q1 Old Footprint=FAIR-TO-92 New Footprint=STM-TO-18-3
+Change Component Comment : Designator=Q1 Old Comment=2N3904BU New Comment=2N3904
+Change Managed Component Library Link : Designator=Q1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=D82A9182-C512-49AD-90DF-5A1BBDA60F70 New ItemGUID=A865139E-B6EF-45E0-AF9D-69A25E38148A Old RevisionGUID=6EAAE616-8D62-4941-9E44-EB706EA21933 New RevisionGUID=908783B6-6357-42CF-A442-94334766117E
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "FAIR-TO-92"; UniqueID = "\YJUNLEUN" ("\YJUNLEUN")
+Change component parameters (AddParameter): Name = "Automotive Qualification Standard"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Collector Emitter Voltage V(br)ceo"; Value = "40V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "https://datasheet.ciiva.com/25917/cd00003223-25917094.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Feb-03"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Collector Current"; Value = "600mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DC Current Gain hFE"; Value = "300hFE"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "No. of Pins"; Value = "3Pins"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Max"; Value = "175degC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "3-Pin Through Hole Device, Dia 5.8 mm, Pitch 1.27 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "TO-18-3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Dissipation Pd"; Value = "500mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Product Range"; Value = "-"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Case Style"; Value = "TO-18"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transistor Polarity"; Value = "NPN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Transition Frequency ft"; Value = "300MHz"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetPCAP1_2 Pin=Q1-1
+Added Pin To Net: NetName=NetD1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-2
+Added Net: Name=NetQ1_3

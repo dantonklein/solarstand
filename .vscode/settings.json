@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "gpio.h": "c",
+        "i2c.h": "c",
+        "adc.h": "c",
+        "freertos.h": "c",
+        "task.h": "c",
+        "drivers.h": "c",
+        "dac.h": "c",
+        "dac_oneshot.h": "c",
+        "esp_log.h": "c",
+        "adc_continuous.h": "c",
+        "esp_err.h": "c",
+        "i2cdev.h": "c",
+        "dac_cosine.h": "c",
+        "voltage_adc.h": "c"
+    }
+}
